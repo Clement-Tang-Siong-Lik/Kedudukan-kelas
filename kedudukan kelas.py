@@ -1,3 +1,5 @@
+#Atur cara menentukan penempatan kelas
+
 #Input
 markah=int(input("Masukkan markah anda:"))
 #Proses
